@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sebis zweiter post
+title: Sebis dritter? post
 ---
 
-## Hier beginnt es
+## zweiter Post
 
 Und was geht weiter!
 
