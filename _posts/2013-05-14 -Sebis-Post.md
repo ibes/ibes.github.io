@@ -1,6 +1,8 @@
 ---
+published: false
 layout: post
-title: Sebis dritter? post
+title: "Sebis dritter? post"
+
 ---
 
 ## zweiter Post
@@ -8,3 +10,8 @@ title: Sebis dritter? post
 Und was geht weiter!
 
 Das wäre fein!
+
+- feine sache
+- das hier
+
+
