@@ -1,9 +1,9 @@
 ---
+title: Gedanken über Sex, Liebe und Beziehungen
 layout: post
 category : blog
 tags : [menschen, leben, liebe]
 ---
-{% include JB/setup %}
 
 Ich mache mir in der letzten Zeit viele Gedanken darüber, was ich mir von Zwischenmenschlichkeit, Liebe, Beziehungen usw. erhoffe. 
 Wie du vielleicht weißt, mache ich mir seit ein paar Monaten intensiver Gedanken, was ich mit meinem Leben anstellen will und wie ich es gestalten will. Im Gedanken machen bin ich eh gut ;)
