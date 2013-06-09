@@ -1,8 +1,9 @@
 ---
-layout: layout
+layout: page
 title: Sebis Blog
+tagline: Sebis Gedankenwelt
 ---
-
+{% include JB/setup %}
 <div class="content">
   <div class="related">
     <ul>

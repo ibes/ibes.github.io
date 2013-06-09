@@ -4,7 +4,7 @@ layout: post
 category : blog
 tags : [menschenkunde, menschen]
 ---
-
+{% include JB/setup %}
 Ich glaube, das schlimmste, was einem Menschen passieren kann, ist, dass er sich seiner unendlichen Einsamkeit bewusst ist. Auch wenn um jeden von uns so viel anderes herum ist, so bleibt immer eine Grenzen zwischen dem "ich" und dem anderen. 
 
 Diese Einsamkeit wäre schwer zu ertragen, deshalb ist es gut, dass es Möglichkeiten gibt diese Einsamkeit zu kompensieren. 

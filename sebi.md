@@ -3,7 +3,7 @@ layout: page
 published: true
 title: Ziele
 ---
-
+{% include JB/setup %}
 <div class="content">
   # Was könnten Ziele für mich sein?
 
