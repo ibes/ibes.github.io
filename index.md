@@ -1,5 +1,6 @@
 ---
 layout: default
+header : Sebis Blog
 title: Sebis Blog
 tagline: Sebis Gedankenwelt
 ---
